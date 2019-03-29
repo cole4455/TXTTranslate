@@ -1,4 +1,8 @@
-﻿using System;
+//Cole Stevens
+//March 29, 2019
+//TXT message translator
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
